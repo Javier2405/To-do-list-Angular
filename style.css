@@ -1,0 +1,72 @@
+
+
+  .boton_ir{
+    text-decoration: none;
+    padding: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-family: Times New Roman;
+    font-weight: 300;
+    font-size: 25px;
+    font-style: normal;
+    color: #000000;
+    background-color: #60B2B2;
+    border-radius: 15px;
+    border: 3px double ;
+  }
+
+
+  .boton_ir:hover{
+    opacity: 0.7;
+    text-decoration: none;
+  }
+
+
+.texto {
+font-size: 18px;
+font-style: normal;
+font-family: Arial;
+}
+
+.boton_limpiar{ 
+  text-decoration: none;
+  padding: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+  font-family: Times New Roman;
+  font-weight: 300;
+  font-size: 25px;
+  font-style: normal;
+  color: #000000;
+  background-color: #DA4122;
+  border-radius: 15px;
+  border: 3px double;
+}
+
+
+
+.boton_limpiar:hover{
+  opacity: 0.7;
+  text-decoration: none;
+}
+
+
+ul {
+  padding: 0px;
+  margin: 0px;
+}
+
+li {
+  font-family: megrim, fantasy;
+  font-size: 2em;
+  padding: 40px;
+  color: #fff;
+  background: #60B2B2;
+  list-style-type: none;
+  margin-left: 0px;
+  padding-left: 0px;
+}
+
+li input[type="checkbox"] {
+  width: 40px;
+}
